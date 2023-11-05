@@ -8,3 +8,4 @@ def calculate():
 
 def improvedCalculate():
     print("improved calculate")
+    print("fixed bug")
